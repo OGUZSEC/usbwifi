@@ -1,0 +1,5 @@
+wifigrab.exe > pass.txt
+
+
+
+
